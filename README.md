@@ -25,6 +25,9 @@ The website was created with the help of a step-by-step YouTube video. You can w
 
 This project was deployed using the [VERCEL](https://vercel.com/) service.
 
+You can visit through [this link](https://site-apple.vercel.app/).
+This project was deployed using the [VERCEL](https://vercel.com/) service.
+
 You can visit through [this link]().
 
 
